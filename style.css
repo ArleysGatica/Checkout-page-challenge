@@ -14,6 +14,9 @@ section {
 #title {
   margin-left: 22%;
   margin-top: 5%;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
 }
 
 .input-1 {
@@ -200,7 +203,7 @@ section {
   width: 25%;
   background: #f2f2f2;
   flex-wrap: wrap;
-  margin-top: -38%;
+  margin-top: -40%;
   margin-bottom: 5px;
   border-radius: 10px;
 }
@@ -276,7 +279,7 @@ section {
 }
 
 #hr1 {
-  margin-top: 20%;
+  margin-top: 15%;
   width: 75%;
 }
 
@@ -298,7 +301,7 @@ section {
   margin-left: 15%;
 }
 #hr2 {
-  margin-top: 20px;
+  margin-top: 10px;
   width: 75%;
 }
 
